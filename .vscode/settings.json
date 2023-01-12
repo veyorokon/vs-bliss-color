@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "terminal.integrated.lineHeight": 1.4,
+    "editor.inlayHints.padding": false
+}

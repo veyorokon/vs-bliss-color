@@ -1,0 +1,26 @@
+{
+  "name": "bliss-ui",
+  "displayName": "bliss-ui",
+  "description": "VS Code version of the Bliss UI theme from Atom",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "author":{
+    "name": "Vahid Eyorokon",
+    "email": "veyorokon@gmail.com",
+    "url": "https://www.linkedin.com/in/vahid-eyorokon-7b7b99229/"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "bliss-ui",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bliss-color-color-theme.json"
+      }
+    ]
+  }
+}
