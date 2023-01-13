@@ -1,7 +1,7 @@
 # VS Code ßliss 
 
 Minimalist UI for VS Code.
-![ßliss](https://i.imgur.com/LsV9DkQ.png)
+![ßliss](https://i.imgur.com/x8CroVa.png)
 
 ### License
 MIT
