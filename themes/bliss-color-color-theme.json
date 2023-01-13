@@ -1941,7 +1941,7 @@
 	  "editor.wordHighlightStrongBorder": "#4f5b66",
 	  "editor.wordHighlightBackground": "#4f5b66",
 	  "editor.wordHighlightBorder": "#4f5b66",
-	  "editor.lineHighlightBackground": "#4f5b66",
+	  "editor.lineHighlightBackground": "#2b303b",
 	  "editor.lineHighlightBorder": "#65737e00",
 	  "editorLineNumber.activeForeground": "#828791",
 	  "editorLink.activeForeground": "#8fa1b3",
