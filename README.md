@@ -10,6 +10,7 @@ Paste the provided settings snippet into your settings.json file.
 
 ```json
 {
+    ...<previous configs>...,
     "editor.fontFamily": "'Menlo', 'DejaVu Sans Mono', 'Consolas', 'Lucida Console', monospace",
     "editor.fontVariations": false,
     "editor.formatOnSave": true,
