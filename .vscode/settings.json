@@ -3,6 +3,7 @@
     "editor.lineHeight": 1.8,
     "terminal.integrated.lineHeight": 1.4,
     "editor.inlayHints.padding": false,
-    "editor.cursorStyle": "underline",
-    "json.format.keepLines": false
+    "editor.cursorStyle": "line-thin",
+    "json.format.keepLines": false,
+    "workbench.editor.enablePreview": true
 }

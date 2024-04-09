@@ -1,8 +1,8 @@
 {
   "name": "bliss-ui",
-  "displayName": "ßliss µi",
+  "displayName": "Bliss UI",
   "description": "VS Code version of the ßliss UI theme from Atom",
-  "version": "1.1.7",
+  "version": "1.2.8",
   "publisher": "veyorokon",
   "engines": {
     "vscode": "^1.74.0"
@@ -10,8 +10,8 @@
   "categories": [
     "Themes"
   ],
-  "icon":"icons/bliss-192.png",
-  "author":{
+  "icon": "icons/bliss-192.png",
+  "author": {
     "name": "Vahid Eyorokon",
     "email": "veyorokon@gmail.com",
     "url": "https://www.linkedin.com/in/vahid-eyorokon-7b7b99229/"
