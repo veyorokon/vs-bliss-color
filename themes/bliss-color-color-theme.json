@@ -180,6 +180,8 @@
       "scope": [
         "support.type",
         "variable.parameter",
+        "meta.jsx.children",
+        "string.quoted.single.js"
       ],
       "settings": {
         "foreground": "#c0c5ce"
