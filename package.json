@@ -1,8 +1,8 @@
 {
-  "name": "Bliss",
+  "name": "ßliss",
   "displayName": "ßliss UI",
   "description": "VS Code version of the ßliss (Bliss) UI theme from Atom",
-  "version": "1.2.13",
+  "version": "1.2.14",
   "publisher": "veyorokon",
   "engines": {
     "vscode": "^1.74.0"
@@ -23,7 +23,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "bliss-ui",
+        "label": "ßliss UI",
         "uiTheme": "vs-dark",
         "path": "./themes/bliss-color-color-theme.json"
       }
