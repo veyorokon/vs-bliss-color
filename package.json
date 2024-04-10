@@ -1,8 +1,8 @@
 {
-  "name": "ßliss",
+  "name": "Bliss",
   "displayName": "ßliss UI",
   "description": "VS Code version of the ßliss (Bliss) UI theme from Atom",
-  "version": "1.2.14",
+  "version": "2.0.0",
   "publisher": "veyorokon",
   "engines": {
     "vscode": "^1.74.0"
