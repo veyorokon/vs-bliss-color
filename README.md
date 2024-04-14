@@ -1,7 +1,7 @@
 # VS Code ßliss 
 
 Minimalist UI for VS Code.
-![ßliss](https://i.imgur.com/x8CroVa.png)
+![ßliss](https://github.com/veyorokon/vs-bliss-color/blob/main/images/bliss.png?raw=true)
 
 ### Theme Configuration Settings
 Open Command Palette with Cmd + Shift + P (macOS) or Ctrl + Shift + P (Windows/Linux).
